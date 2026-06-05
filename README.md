@@ -59,6 +59,6 @@ The original dataset contains healthcare information related to:
 - Scikit-learn
 ## Projects Screenshots
 ### Fraud Distribution
-![Fraud Distribution](Images/Distribution of potential Fraud in Claims Data.png)
+![Fraud Distribution](Images/fraud_distribution.png)
 
 
