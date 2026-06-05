@@ -61,4 +61,17 @@ The original dataset contains healthcare information related to:
 ### Fraud Distribution
 ![Fraud Distribution](Images/fraud_distribution.png)
 
+## Imbalanced Data
+![Imbalanced Data](Images/imbalance_data.png)
 
+## Logistic Regression Metrics
+![Logistic Regression Metrics](Images/Logisticregression_Metrics.png)
+
+## Catboost Metrics
+![Catboost Metrics](Images/Catboost_Metrics.png)
+
+## Catboost Random undesampling Metrics
+![Catboost Random undesampling Metrics](Images/Catboost_MetricsRUS.png)
+
+## Catboost Class weights Metrics
+![Catboost Class weights Metrics](Images/CatboostCW_Metrics.png)
