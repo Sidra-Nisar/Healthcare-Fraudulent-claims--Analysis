@@ -57,5 +57,8 @@ The original dataset contains healthcare information related to:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+## Projects Screenshots
+### Fraud Distribution
+![Fraud Distribution](Images/Distribution of potential Fraud in Claims Data.png)
 
 
