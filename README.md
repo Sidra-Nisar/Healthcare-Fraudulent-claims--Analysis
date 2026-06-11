@@ -70,6 +70,13 @@ The original dataset contains healthcare information related to:
 ## Catboost Metrics
 ![Catboost Metrics](Images/Catboost_Metrics.png)
 
+## Key Results
+
+| Model | Precision | Recall | F1 Score |
+|---------|---------|---------|---------|
+| Logistic Regression | 0.xx | 0.xx | 0.xx |
+| CatBoost | 0.xx | 0.xx | 0.xx |
+
 ## Catboost Random undesampling Metrics
 ![Catboost Random undesampling Metrics](Images/Catboost_MetricsRUS.png)
 
